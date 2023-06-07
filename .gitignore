@@ -1,0 +1,50 @@
+# Intellij gerelateerde bestanden
+.idea/
+*.iml
+*.iws
+/shelf/
+/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+
+# Gecompileerde bronbestanden
+/target/
+/bin/
+/build/
+/classes/
+/out/
+
+# Verpakking gerelateerde bestanden
+*.jar
+*.war
+*.ear
+
+# Log bestanden
+*.log
+
+# Andere gegenereerde bestanden
+*.pyc
+*.class
+
+# OSX gerelateerde
+.DS_Store
+
+# Windows gerelateerde
+Thumbs.db
+
+# Tijdelijke bestanden
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# Eclipse gerelateerde
+.classpath
+.project
+.settings/
+
+# Virtuele machine crash logs
+hs_err_pid*
+sql/testDatabase
